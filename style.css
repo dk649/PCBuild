@@ -1,5 +1,13 @@
 
 
+.rotateimg180{
+
+  -webkit-transform: rotate(normal);
+  -ms-transform: rotate(normal);
+  -ms-transform: rotate(normal);
+  -o-transform: rotate(normal);
+  transform: rotate(normal);
+}
 
 
 body{
@@ -34,7 +42,7 @@ body{
 
   img:hover{
 
-    transform: scale(1.5);
+    transform: scale(1.8);
 }
 
 h1{
